@@ -1,0 +1,5 @@
+primaryColor #3366CC #6699FF
+secondaryColor #CC4D33 #FF8066
+backgroundColor #FAFAFA #1A1A1A
+textColor #333333 #F2F2F2
+# Press Ctrl+D when done
