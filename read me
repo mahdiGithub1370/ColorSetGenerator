@@ -1,3 +1,22 @@
+// Color
 run this two on terminal:
 ➜  repositoryName chmod +x generate_colors_from_file.sh colors.txt 
 ➜  repositoryName ./generate_colors_from_file.sh colors.txt
+
+------------------------------------------------------------
+// Image:
+your image folder should be like this:
+images/
+├── account-alert-gray.png
+├── account-alert-gray@2x.png
+├── account-alert-gray@3x.png
+└── Agreement.pdf
+
+also run this for image asset creation:
+
+chmod +x generate_images.sh
+./generate_images.sh images
+
+
+then it will The script will automatically detect that account-alert-gray.png, account-alert-gray@2x.png, and account-alert-gray@3x.png all belong to the same image set and create the proper structure for Xcode!
+
