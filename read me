@@ -1,0 +1,3 @@
+run this two on terminal:
+➜  repositoryName chmod +x generate_colors_from_file.sh colors.txt 
+➜  repositoryName ./generate_colors_from_file.sh colors.txt
